@@ -1,7 +1,10 @@
 libsm6
+libxrender1
+libfontconfig1
 libice6
 libgl1
 libxext6
+ffmpeg
 python3-opencv
 gunicorn3
 
